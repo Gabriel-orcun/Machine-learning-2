@@ -1,0 +1,9 @@
+# Dataset source original (lourd ~20 Mo, téléchargeable depuis WRI / ESB Initiative)
+_original_dataset/
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Caches Python
+__pycache__/
+*.pyc

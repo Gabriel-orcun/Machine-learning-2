@@ -5,7 +5,6 @@ Identifier les combinaisons de caractéristiques fréquentes chez les districts 
 
 Dataset recommandé
 [
-'0a. Has committed ESBs?',
 '3b. Number of delivered or operating ESBs',
 '3f. Number of ESBs operating',
 '4f. Median household income',

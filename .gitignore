@@ -7,3 +7,12 @@ _original_dataset/
 # Caches Python
 __pycache__/
 *.pyc
+
+# Scripts de build des présentations (non livrables) — on ne pousse que les .pptx/.pdf
+_build/
+# Fichiers temporaires de QA (images de slides, node_modules éventuels)
+**/presentation/slide-*.jpg
+node_modules/
+
+# Notes orales personnelles pour la soutenance (non destinées au prof)
+text_presentation/
